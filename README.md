@@ -15,3 +15,10 @@ Analysis Plan: This section discusses the preprocessing steps for cleaning and s
 Data and Web Scraping Possibilities: This section sources for data and web scraping online fitness communities like Reddit and bodybuilding.com, fitness blogs, health and sports science peer-reviewed publications.
 
  
+![group 2 before after](https://github.com/user-attachments/assets/82a10ecb-3790-4189-9d15-98d751d63074)
+
+
+![older adult death fall](https://github.com/user-attachments/assets/5ce332f5-e5d3-4d1f-baf0-2b9b7e304c20)
+
+
+![reddit wordcloud](https://github.com/user-attachments/assets/7032cf62-afa8-4b36-b927-695c0b02f6a0)
