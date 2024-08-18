@@ -1,0 +1,33 @@
+Study name,RoB Random,RoB Measu,UNITS,ROM type,Group 1 Strength PREMean ,Group 1 Strength PRE SD ,Group 1 Strength POST Mean ,Group 1 Strength POST SD ,n ,Group 2 StretchingPRE Mean ,Group 2 StretchingPRE SD ,Group 2 StretchingPOST Mean ,Group 2 StretchingPOST SD ,n ,? pre-post Exp,? pre-post CON,
+Alexander et al. (2001) - ST vs. stretching [elbow extension],Low,High,Degrees,Passive,-0.3,2.2,-0.3,2.4,64,-0.4,2.2,-0.6,3.5,60,100,150,-50
+Alexander et al. (2001) - ST vs. stretching [shoulder abduction],Low,High,Degrees,Passive,157.3,29.3,161.5,25.9,64,161.6,26.9,159.1,157.3,60,102.6700572,98.4529703,4.217086918
+Alexander et al. (2001) - ST vs. stretching [hip flexion],Low,High,Degrees,Passive,116,7.4,117.1,6.6,64,116,7.8,116.4,6.9,60,100.9482759,100.3448276,0.603448276
+Alexander et al. (2001) - ST vs. stretching [hip abduction],Low,High,Degrees,Passive,23.1,6.7,24.8,6.4,64,25.1,6.6,23.2,6.9,60,107.3593074,92.43027888,14.92902847
+Alexander et al. (2001) - ST vs. stretching [knee flexion],Low,High,Degrees,Passive,129.5,8,130.7,7.7,64,129.5,9.2,129.2,9,60,100.9266409,99.76833977,1.158301158
+Alexander et al. (2001) - ST vs. stretching [knee extension],Low,High,Degrees,Passive,-3.6,5.9,-2.5,5.2,64,-2.6,5,-3.8,5.7,60,69.44444444,146.1538462,-76.70940171
+Alexander et al. (2001) - ST vs. stretching [ankle dorsiflexion],Low,High,Degrees,Passive,15.3,5.2,16.5,4.8,64,15.3,5.5,14.5,5.8,60,107.8431373,94.77124183,13.07189542
+Alexander et al. (2001) - ST vs. stretching [trunk flexion],Low,High,Degrees,Active,21.7,8.3,24.9,8.2,64,23.8,8.6,22.3,7.8,60,114.7465438,93.69747899,21.04906479
+Alexander et al. (2001) - ST vs. stretching [trunk extension],Low,High,Degrees,Active,3.2,2.3,5,3,64,3.1,2.5,2.7,2.1,60,156.25,87.09677419,69.15322581
+Alexander et al. (2001) - ST vs. stretching [trunk lateral flexion],Low,High,Degrees,Active,18.9,7,23.8,5.8,64,19.9,7.3,20.3,5.8,60,125.9259259,102.0100503,23.91587567
+Aquino et al. (2010) - ST vs. stretching [knee extension],High,Low,Degrees,Passive,8,4.5,4,6.3,15,5.7,6.5,2.4,9.1,15,50,42.10526316,7.894736842
+Caputo et al. (2017) - ST vs. stretching [cervical spine flexion-extension],Moderate,Low,Degrees,Active,108.5,30.7,131,11.7,14,110,23.6,125,15.3,13,120.7373272,113.6363636,7.100963553
+Caputo et al. (2017) - ST vs. stretching [cervical spine lateral flexion],Moderate,Low,Degrees,Active,63.5,13.4,80,13,14,68,10.8,80,12,13,125.984252,117.6470588,8.337193145
+Caputo et al. (2017) - ST vs. stretching [cervical spine rotation],Moderate,Low,Degrees,Active,130,25.1,155,21.9,14,136,13.2,150,13.7,13,119.2307692,110.2941176,8.936651584
+Leite et al. (2015) - ST vs stretching [sit and reach; hip flexion],Low,Low,Centimeters,Active,39.6,4.2,40,4.8,7,38.1,7.2,40,7.2,7,101.010101,104.9868766,-3.97677563
+Li et al. (2020) - ST vs. stretching [hip flexion],High,High,Degrees,Passive,104,17,111.8,21.4,20,102.1,14.5,121.6,15.3,20,107.5,119.0989226,-11.59892262
+Morton et al. (2011) - ST vs stretching [hip flexion],High,High,Degrees,Passive,62.6,6.2,73.2,9.8,12,59.3,12.6,64.6,12.5,12,116.9329073,108.9376054,7.995301952
+Morton et al. (2011) - ST vs stretching [hip extension],High,High,Degrees,Passive,15,5.9,24.9,6.6,12,17.9,4.9,22.6,7.3,12,166,126.2569832,39.74301676
+Morton et al. (2011) - ST vs stretching [knee extension],High,High,Degrees,Passive,35.6,13.4,68.5,10.8,12,31.3,7.9,62.5,12.8,12,192.4157303,199.6805112,-7.264780845
+Morton et al. (2011) - ST vs stretching [shoulder extension],High,High,Degrees,Active,9.2,4,12,4,12,11.8,4.6,13.6,4.5,12,130.4347826,115.2542373,15.18054532
+Racil et al. (2020) - ST (Plyo) vs. stretching [hip flexion],High,High,Degrees,Active,140.9,6.6,145.3,5,18,141.4,5.6,144.2,5.1,16,103.1227821,101.980198,1.142584095
+Racil et al. (2020) - ST (Plyo) vs. stretching [hip extension],High,High,Degrees,Active,39,6.2,40.9,6.4,18,38.2,8,41.5,6.2,16,104.8717949,108.6387435,-3.766948584
+"Simão et al. (2011) - ST vs. stretching [sit and reach, hip flexion]",High,Low,Centimeters,Active,30,2,36,3,20,32,3,43,2,20,120,134.375,-14.375
+Wyon et al. (2013) - ST vs. low-intensity stretching [active hip flexion],Low,High,Degrees,Active,84,15.4,104,14.4,11,90.5,15.7,108.5,15.4,13,123.8095238,119.8895028,3.920021047
+Wyon et al. (2013) - ST vs. low-intensity stretching [passive hip flexion],Low,High,Degrees,Passive,130,13.5,148.5,11.5,11,133.5,15.1,146,18.7,13,114.2307692,109.3632959,4.867473351
+Wyon et al. (2013) - ST vs. moderate to high-intensity stretching [active hip flexion],Low,High,Degrees,Active,84,15.4,104,14.4,11,77.5,13.5,84.5,13.5,11,123.8095238,109.0322581,14.77726575
+Wyon et al. (2013) - ST vs. moderate to high-intensity stretching [passive hip flexion],Low,High,Degrees,Passive,130,13.5,148.5,11.5,11,127.5,15.1,137,12.6,11,114.2307692,107.4509804,6.779788839
+Nelson & Bandy (2004) - ST vs. stretching [knee extension],High,Low,Degrees,Passive,-29.7,6.8,-16.9,6.8,24,-31,7.3,-18.9,6.8,21,56.9023569,60.96774194,-4.065385033
+Jones et al. (2002) - ST vs. stretching [hand to scapula],Low,Low,0-4 in qualitative scale,Active,-1.6,0.9,-0.5,0.7,28,-1.7,1,-0.2,0.8,28,31.25,11.76470588,19.48529412
+Jones et al. (2002) - ST vs. stretching [hand to neck],Low,Low,0-4 in qualitative scale,Active,-0.1,0.7,0,0.6,28,-1,0.9,-0.1,0.8,28,0,10,-10
+,,,4 is worse!!!,,,,,,,,,,,,,,
+"Nelson & Bandy - smaller is also better, in this case! Using negatives",,,Required inversion of values,,,,,,,,,,,,,,
