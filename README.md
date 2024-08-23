@@ -14,9 +14,11 @@ Analysis Plan: This section discusses the preprocessing steps for cleaning and s
 
 Data and Web Scraping Possibilities: This section sources for data and web scraping online fitness communities like Reddit and bodybuilding.com, fitness blogs, health and sports science peer-reviewed publications.
 
-![older adult death fall](https://github.com/user-attachments/assets/0dc2fe38-fc82-4c9b-b5f5-585154c196df)
-![group 2 before after](https://github.com/user-attachments/assets/82a10ecb-3790-4189-9d15-98d751d63074)
-![older adult death fall](https://github.com/user-attachments/assets/5ce332f5-e5d3-4d1f-baf0-2b9b7e304c20)![reddit frequency](https://github.com/user-attachments/assets/953a0c03-aa57-4f79-ae01-9ee2d7071c60)
-![reddit wordcloud](https://github.com/user-attachments/assets/7032cf62-afa8-4b36-b927-695c0b02f6a0)
-![cardiofitness dataset](https://github.com/user-attachments/assets/5735c85d-9ee9-4729-badf-fe2c54690727)
-![fitnesstrends cardiofitness dataset](https://github.com/user-attachments/assets/7ab5d31b-724f-4aa7-a3db-f7ff35b3f669)
+![reddit frequency](https://github.com/user-attachments/assets/65e6016e-bf79-45eb-8588-7fc07490afaa)
+![older adult death fall](https://github.com/user-attachments/assets/3e4294a5-6d9f-4cdf-804b-dc0ad57e605f)
+![older adult bin prediction metrics](https://github.com/user-attachments/assets/81b101ea-5532-4582-92dd-7704c81b263f)
+![group 2 before after](https://github.com/user-attachments/assets/41ffd31d-3e74-4f5b-a5b9-b87728443305)
+![group 1 before after](https://github.com/user-attachments/assets/bbbadd1a-f7ef-4c3f-a859-ed8d0563a9c3)
+![fitnesstrends cardiofitness dataset](https://github.com/user-attachments/assets/0063caf7-7b59-44a0-9f0f-3f311399bb7b)
+![cardiofitness dataset](https://github.com/user-attachments/assets/d51ebfbb-048e-41d9-984c-8f79bc361c6a)
+![reddit wordcloud](https://github.com/user-attachments/assets/f6f2a594-3b0e-4a57-b2cf-6eefc1e8e548)
